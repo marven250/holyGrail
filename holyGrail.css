@@ -1,0 +1,49 @@
+html, body{
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+
+.header{
+    border: 5px solid purple;
+    font-size: 4rem;
+    text-align: center;
+}
+
+.leftSideNav{
+    border: 5px solid blue;
+    width: 30%;
+}
+
+.rightSideNav{
+    border: 5px solid green;
+    width: 30%;
+
+}
+
+aside p {
+    
+}
+
+.mainContent {
+    border: 5px solid gold;
+}
+
+.footer{
+    border: 5px solid slategray;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.bodySection {
+    display: flex;
+    height: 85%;
+}
+
+.mainContentTitle{
+    text-align: center;
+}
+.itemsListTitle{
+    text-align: center;
+}
